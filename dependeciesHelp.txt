@@ -1,0 +1,8 @@
+1 - express framework.
+2 - bcryptjs to hash passwords.
+3 - jsonwebtoken for athentication.
+4 - config for global variables .
+5 - express-validate to validate users data (email,usernames...)
+6 - mongoose create models/ deal with DB CRUD.
+7 - nodemon to serve the app.
+8 - concurrently run backend/frontend in the same time.
