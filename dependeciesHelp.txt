@@ -5,4 +5,4 @@
 5 - express-validate to validate users data (email,usernames...)
 6 - mongoose create models/ deal with DB CRUD.
 7 - nodemon to serve the app.
-8 - concurrently run backend/frontend in the same time.
+8 - concurrently to run backend/frontend in the same time.
